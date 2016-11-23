@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xslt" ?>
+<Xml>
+  <Students>
+    <Student Name="Tinh" ClassId="11"/>
+    <Student Name="Tu" ClassId="17"/>
+    <Student Name="Linh" ClassId="19"/>
+    <Student Name="Joe Jackson" ClassId="11"/>
+    <Student Name="Joe Jackson" ClassId="13"/>
+    <Student Name="Joe Jackson" ClassId="17"/>
+    <Student Name="Rick Robertson" ClassId="13"/>
+    <Student Name="Rick Robertson" ClassId="17"/>
+    <Student Name="Rick Robertson" ClassId="19"/>
+  </Students>
+</Xml>

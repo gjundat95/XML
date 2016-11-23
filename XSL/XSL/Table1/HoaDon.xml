@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Test.xslt"?>
+<QLDH>
+  <DonHang>
+    <MaHD>HD01</MaHD>
+    <MaKH>KH02</MaKH>
+    <MaH>HA01</MaH>
+    <TenH>iphone 7 plus</TenH>
+    <SL>10</SL>
+    <DonGia>20tr</DonGia>
+    <TongTien>200tr</TongTien>
+  </DonHang>
+  <DonHang>
+    <MaHD>HD02</MaHD>
+    <MaKH>KH01</MaKH>
+    <MaH>HA02</MaH>
+    <TenH>iphone 6 plus</TenH>
+    <SL>10</SL>
+    <DonGia>10tr</DonGia>
+    <TongTien>100tr</TongTien>
+  </DonHang>
+</QLDH>

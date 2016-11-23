@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLKH>
+  <KhachHang>
+    <MaKH>KH01</MaKH>
+    <TenKH>Nguyen Van Nam</TenKH>
+    <SDT>01662183789</SDT>
+    <DiaChi>Thai Nguyen</DiaChi>
+  </KhachHang>
+  <KhachHang>
+    <MaKH>KH02</MaKH>
+    <TenKH>Nguyen Van A</TenKH>
+    <SDT>01662183789</SDT>
+    <DiaChi>Thai Nguyen</DiaChi>
+  </KhachHang>
+</QLKH>

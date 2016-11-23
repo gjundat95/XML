@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xslt" ?>
+<root>
+  <bloggers>
+    <name bloggerId = "1" first="Tinh" >Tinh</name>
+    <name bloggerId = "2" first="Tinh" >Adam Machanic</name>
+    <name bloggerId = "3" first="Tinh" >Pinal Dave</name>
+    <name bloggerId = "4" first="Tinh" >Steve Jones</name>
+    <name bloggerId = "5" first="Tinh" >Michael Coles</name>
+  </bloggers>
+  <blogs>
+    <url bloggerId = "1">http://www.sqlblog.com/adam_machanic</url>
+    <url bloggerId = "2">http://www.sqlauthority.com</url>
+    <url bloggerId = "3">http://www.beyondrelational.com</url>
+    <url bloggerId = "4">http://www.sqlblog.com/michael_coles</url>
+    <url bloggerId = "5">http://www.sqlservercentral.com/blogs/steve_jones</url>
+    <url bloggerId = "6">http://www.cnn.com/belief</url>
+    <url bloggerId = "7">http://www.yahoo.com/360</url>
+  </blogs>
+</root>

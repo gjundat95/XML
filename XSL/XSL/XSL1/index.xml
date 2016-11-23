@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="triangular.xslt"?>
+<triangulars>
+  <triangular>
+    <n>5</n>
+  </triangular>
+  <triangular>
+    <n>3</n>
+  </triangular>
+  <triangular>
+    <n>2</n>
+  </triangular>
+  <triangular>
+    <n>8</n>
+  </triangular>
+</triangulars>
